@@ -7,3 +7,5 @@ Play: https://xatusbetazx17.github.io/shelter-survival/
 
 Controls: WASD / arrows / gamepad, or on-screen joystick and D-pad on phones.
 Shoot with Space or the FIRE button.
+
+v2 — 26 new models, boss on wave 10, 5 new rooms.
